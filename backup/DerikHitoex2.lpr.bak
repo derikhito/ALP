@@ -1,0 +1,17 @@
+program DerikHitoex2;
+
+uses crt;
+
+var i, n: integer;
+
+begin
+  Write ('Escreva um valor: ');
+  ReadLn(n);
+  WriteLn ('Os divisores de 3 de 0 a ', n, ' sao: ');
+  for i := 0 to n do
+  begin
+    if (i mod 3) = 0 then
+      WriteLn (i);
+  end;
+  readkey;
+end.

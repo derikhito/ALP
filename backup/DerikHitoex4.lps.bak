@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="DerikHitoex4.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="57"/>
+        <CursorPos X="3" Y="68"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="9" HistoryIndex="8">
+      <Position1>
+        <Filename Value="DerikHitoex4.lpr"/>
+        <Caret Line="14" Column="3"/>
+      </Position1>
+      <Position2>
+        <Filename Value="DerikHitoex4.lpr"/>
+        <Caret Line="3" Column="37"/>
+      </Position2>
+      <Position3>
+        <Filename Value="DerikHitoex4.lpr"/>
+        <Caret Line="7" Column="11"/>
+      </Position3>
+      <Position4>
+        <Filename Value="DerikHitoex4.lpr"/>
+        <Caret Line="29" Column="62" TopLine="19"/>
+      </Position4>
+      <Position5>
+        <Filename Value="DerikHitoex4.lpr"/>
+        <Caret Line="36" Column="6" TopLine="32"/>
+      </Position5>
+      <Position6>
+        <Filename Value="DerikHitoex4.lpr"/>
+        <Caret Line="35" Column="26" TopLine="28"/>
+      </Position6>
+      <Position7>
+        <Filename Value="DerikHitoex4.lpr"/>
+        <Caret Line="67" Column="25" TopLine="56"/>
+      </Position7>
+      <Position8>
+        <Filename Value="DerikHitoex4.lpr"/>
+        <Caret Line="63" Column="19" TopLine="53"/>
+      </Position8>
+      <Position9>
+        <Filename Value="DerikHitoex4.lpr"/>
+        <Caret Line="49" Column="42" TopLine="39"/>
+      </Position9>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
